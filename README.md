@@ -1,2 +1,2 @@
 # AntibodyValencePrediction
-Supervised Machine Learning, Classification task, Transfer Learning
+Supervised Machine Learning, Classification task
